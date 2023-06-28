@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is some content to mess up with later
 New line in here in file4.txt
+=======
+this is some woodo stuff right here
+>>>>>>> newfeature
